@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="SPORTS - EUROPE",Eurosport 1
+STREAM_URL_1
+
+#EXTINF:-1 group-title="SPORTS - EUROPE",Eurosport 2
+STREAM_URL_2
+
+#EXTINF:-1 group-title="SPORTS - UK",Sky Sports Football
+STREAM_URL_3
+
+#EXTINF:-1 group-title="SPORTS - UK",Sky Sports Main Event
+STREAM_URL_4
+
+#EXTINF:-1 group-title="SPORTS - USA",FOX Sports
+STREAM_URL_5
+
+#EXTINF:-1 group-title="SPORTS - USA",ESPN
+STREAM_URL_6
+
+#EXTINF:-1 group-title="SPORTS - MENA",beIN SPORTS 1
+STREAM_URL_7
+
+#EXTINF:-1 group-title="SPORTS - MENA",beIN SPORTS 2
+STREAM_URL_8
+
+#EXTINF:-1 group-title="SPORTS - BRAZIL",SporTV
+STREAM_URL_9
